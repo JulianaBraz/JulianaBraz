@@ -1,6 +1,6 @@
 <center><h1>Welcome to a new kingdom</h1></center>
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAPE6SdmAUuLk74QaCA4Pp2HEBlVJTqXHa6gneD3gDw2VkMhfJcc07uLrOrOuEG4VhmM&usqp=CAU)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SwAY6tiUEWWVNV4MFheGQeOxTeBXWj858M3dfCQh4NU7Y0lltyShMFDSdMhFQeghY4A&usqp=CAU)
 
 <center><h2>`System.out.println("HELLO WORLD")`</h2></center>
 <center><h2>👇</h2></center>
