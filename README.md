@@ -2,9 +2,9 @@
 
 ![alt text](image-1.png)
 
-<center><h4> `System.out.println("HELLO WORLD")` </h4></center>
-<center><h4>👇</h4></center>
-<center><h4> Tradução: "...Daqui pra frente vai ser, só muito champagne e caviar..."</h4></center>
+<center><h2> `System.out.println("HELLO WORLD")` </h2></center>
+<center><h2>👇</h2></center>
+<center><h2> Tradução: "...Daqui pra frente vai ser, só muito champagne e caviar..."</h2></center>
 
 
 
