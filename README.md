@@ -8,9 +8,7 @@
 
 
 
-
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -44,6 +42,14 @@ ___italico e negrito___
 
 [X] Tarefa 1 
 [ ] Tarefa 2
+
+
+GitHub status
+
+procurar github status no google e ir no repositório disponível. git hub status card
+e copiar o url e trocar o username na url 
+
+![](url)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
