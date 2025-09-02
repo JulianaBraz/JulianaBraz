@@ -1,6 +1,6 @@
 <center><h1>Welcome to a new kingdom</h1></center>
 
-![alt text](image-1.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAPE6SdmAUuLk74QaCA4Pp2HEBlVJTqXHa6gneD3gDw2VkMhfJcc07uLrOrOuEG4VhmM&usqp=CAU)
 
 <center><h2>`System.out.println("HELLO WORLD")`</h2></center>
 <center><h2>👇</h2></center>
@@ -17,6 +17,8 @@
 **JulianaBraz/JulianaBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+devicons -> icones de ti
 
 centralizar: 
 
