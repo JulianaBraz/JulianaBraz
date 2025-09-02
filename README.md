@@ -1,10 +1,10 @@
-<center><h1> Welcome to a new kingdom </h1></center>
+<center><h1>Welcome to a new kingdom</h1></center>
 
 ![alt text](image-1.png)
 
-<center><h2> `System.out.println("HELLO WORLD")` </h2></center>
+<center><h2>`System.out.println("HELLO WORLD")`</h2></center>
 <center><h2>👇</h2></center>
-<center><h2> Tradução: "...Daqui pra frente vai ser, só muito champagne e caviar..."</h2></center>
+<center><h2>Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2></center>
 
 
 
