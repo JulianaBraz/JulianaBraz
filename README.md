@@ -2,8 +2,8 @@
 
  ![alt](https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif)
 
- <img align="center" alt="Coding" src="https://camo.githubusercontent.com/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif"
- data-canonical-src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif"style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <img align="center" alt="Coding" src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif"
+ data-canonical-src="farfaraway.gif"style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">👇</h2>
