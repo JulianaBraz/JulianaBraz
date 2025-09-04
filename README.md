@@ -1,7 +1,7 @@
   <h1 align="center">Welcome to a new kingdom</h1>
 
-<img align="center" alt="Coding" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SwAY6tiUEWWVNV4MFheGQeOxTeBXWj858M3dfCQh4NU7Y0lltyShMFDSdMhFQeghY4A&usqp=CAU"
-style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="Coding" src= "image-2.png"
+style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">👇</h2>
