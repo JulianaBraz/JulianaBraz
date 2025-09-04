@@ -6,6 +6,8 @@
 <h2 align="center">👇</h2>
 <h2 align="center">Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2>
 
+ <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
+
 
 
 ![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaBraz&show_icons=true&theme=ambient_gradient)
