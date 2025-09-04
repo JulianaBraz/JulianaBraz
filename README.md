@@ -1,7 +1,6 @@
   <h1 align="center">Welcome to a new kingdom</h1>
 
-<img align="center" alt="Coding" src= "image-2.png"
-style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+![alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fshrek-funky-town-r0JjLZ&psig=AOvVaw1eMtonM9vu0hHbh6f0_xYS&ust=1757110396255000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj9h56TwI8DFQAAAAAdAAAAABA6)
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">👇</h2>
