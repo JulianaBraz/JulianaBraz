@@ -11,6 +11,9 @@
  <a href="https://linktr.ee/Juliana.Braz" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://linktr.ee/Juliana.Braz" height="50" width="60" /></a>
 </p>
 
+<a href="https://www.instagram.com/braz7l/?igsh=ZnBvNG1wOXBuZnJt#" target="blank"><img align="center" src="https://images.icon-icons.com/1269/PNG/512/1497553304-104_84834.png" alt="https://www.instagram.com/braz7l/?igsh=ZnBvNG1wOXBuZnJt#" height="50" width="60" /></a>
+</p>
+
  <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
 
 
