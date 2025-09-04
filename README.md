@@ -6,12 +6,10 @@
 <h2 align="center">👇</h2>
 <h2 align="center">Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2>
 
- <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
-
-
- <a href="https://linktr.ee/Juliana.Braz" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://linktr.ee/Juliana.Braz" height="30" width="40" /></a>
+ <a href="https://linktr.ee/Juliana.Braz" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://linktr.ee/Juliana.Braz" height="50" width="60" /></a>
 </p>
 
+ <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
 
 
 ![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaBraz&show_icons=true&theme=ambient_gradient)
