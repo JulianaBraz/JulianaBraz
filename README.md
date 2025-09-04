@@ -1,6 +1,6 @@
   <h1 align="center">Welcome to a new kingdom</h1>
 
-<h2 align="center">![alt](https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif)</h2>
+ ![alt](https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif)
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">👇</h2>
