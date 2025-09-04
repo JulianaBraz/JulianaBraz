@@ -1,6 +1,6 @@
   <h1 align="center">Welcome to a new kingdom</h1>
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SwAY6tiUEWWVNV4MFheGQeOxTeBXWj858M3dfCQh4NU7Y0lltyShMFDSdMhFQeghY4A&usqp=CAU)
+<img align="center" alt="Coding" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SwAY6tiUEWWVNV4MFheGQeOxTeBXWj858M3dfCQh4NU7Y0lltyShMFDSdMhFQeghY4A&usqp=CAU"
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">👇</h2>
