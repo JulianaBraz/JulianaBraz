@@ -6,7 +6,7 @@
 <h2 align="center">👇</h2>
 <h2 align="center">Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2>
 
-###**Contatos:** 
+<h3>**Contatos:**</h3> 
 
  <a href="https://linktr.ee/Juliana.Braz" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://linktr.ee/Juliana.Braz" height="50" width="60" /></a>
 </p>
