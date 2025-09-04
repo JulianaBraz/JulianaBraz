@@ -2,6 +2,8 @@
 
  ![alt](https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif)
 
+ <img align="center" alt="Coding" src= "https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif"</h2>
+
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">👇</h2>
 <h2 align="center">Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2>
