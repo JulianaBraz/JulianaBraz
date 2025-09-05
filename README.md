@@ -25,7 +25,7 @@
 > Urgent information that needs immediate user attention to avoid ignorance issues is about to be armed like a bomb:
 > Seja rápido e selecione um link para adiquirir conhecimentos úteis e desarmar a bomba...3...2...1...💣💣💣
 
- ![Bomb](https://tenor.com/blLF2.gif)
+ ![Bomb](https://github.com/JulianaBraz/WelcometoFarFarAway/blob/a31b8111ad872af7ef02877fb510a39d5fc32107/bomb-joypixels.gif)
 
  <div align="center"><img src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/a31b8111ad872af7ef02877fb510a39d5fc32107/bomb-joypixels.gif"</div>
 
