@@ -27,7 +27,7 @@
 
  ![Bomb](https://tenor.com/blLF2.gif)
 
- <div align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbomb-joypixels-bombing-explode-blast-gif-17542148&psig=AOvVaw0Zff3gjyWYktgLa0yfi1tZ&ust=1757135169805000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDbmd_swI8DFQAAAAAdAAAAABA_"</div>
+ <div align="center"><img src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/a31b8111ad872af7ef02877fb510a39d5fc32107/bomb-joypixels.gif"</div>
 
  -----------------------------------------------------------------------
 
