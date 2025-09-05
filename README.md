@@ -12,6 +12,13 @@
 
 
 ---------------------------------------------------
+Skills: 
+
+<p align="left"> <a href="https://github.com/github"target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" alt="GitHub" height="50" width="50"/> </a> <a href="https://colab.google/" target="_blank"rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" alt="GoogleColab" height="50" width="50"/> </a> </p>
+
+
+
+---------------------------------------------------
 
  <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
 
