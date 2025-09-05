@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif"> </div>
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
-<h2 align="center">👇</h2>
+<h2 align="center">⬇️</h2>
 <h2 align="center">Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2>
 
 <h2>Contatos:</h2> 
