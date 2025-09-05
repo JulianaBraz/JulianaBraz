@@ -8,7 +8,7 @@
 
 <h2>Contatos:</h2> 
 
-<p align="left"> <a href="https://linktr.ee/Juliana.Braz" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://linktr.ee/Juliana.Braz" height="50" width="60" /></a> </a> <a href="https://www.instagram.com/braz7l/?igsh=ZnBvNG1wOXBuZnJt#" target="blank"><img align="center" src="https://marketplace.canva.com/EJqY8/MAGiEqEJqY8/1/tl/canva-blur-neon-camera-logo-with-instagram-gradient-background-icon-MAGiEqEJqY8.png" alt="https://www.instagram.com/braz7l/?igsh=ZnBvNG1wOXBuZnJt#" height="30" width="40" /></a>
+<p align="left"> <a href="https://linktr.ee/Juliana.Braz" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" alt="https://linktr.ee/Juliana.Braz" height="60" width="60" /></a> </a> <a href="https://www.instagram.com/braz7l/?igsh=ZnBvNG1wOXBuZnJt#" target="_blank"rel="noreferrer"><img align="center" src="https://marketplace.canva.com/EJqY8/MAGiEqEJqY8/1/tl/canva-blur-neon-camera-logo-with-instagram-gradient-background-icon-MAGiEqEJqY8.png" alt="https://www.instagram.com/braz7l/?igsh=ZnBvNG1wOXBuZnJt#" height="40" width="40" /></a>
 </p>
 
  <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
