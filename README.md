@@ -27,7 +27,6 @@
 
  ![Bomb](https://github.com/JulianaBraz/WelcometoFarFarAway/blob/a31b8111ad872af7ef02877fb510a39d5fc32107/bomb-joypixels.gif)
 
- <div align="center"><img src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/a31b8111ad872af7ef02877fb510a39d5fc32107/bomb-joypixels.gif"</div>
 
  -----------------------------------------------------------------------
 
