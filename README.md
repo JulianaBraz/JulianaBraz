@@ -20,6 +20,11 @@
 
 ---------------------------------------------------
 
+
+> [!WARNING 🛑]
+> Urgent info that needs immediate user attention to avoid problems:
+
+
  <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
 
 
