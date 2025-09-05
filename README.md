@@ -3,9 +3,8 @@
 <div align="center"> <img src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/0feefa780308be6ffb86b6e2c42cc911c62dc530/farfaraway.gif"> </div>
 
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
-<h2 align="center">Tradução ⬇️</h2>
-
-<div align="center"> <img scr="https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&color=00F709&width=435&lines=%22...Daqui+pra+frente+vai+ser+s%C3%B3+muito+champanhe+e+caviar...%22" </div>
+<h2 align="center">⬇️</h2>
+<h2 align="center">Tradução: "...Daqui pra frente vai ser só muito champagne e caviar..."</h2>
 
 
 <h2>Contatos:</h2> 
