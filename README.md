@@ -5,7 +5,7 @@
 <h2 align="center">`System.out.println("HELLO WORLD")`</h2>
 <h2 align="center">Tradução ⬇️</h2>
 
-<div align="center"> <img scr="https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&color=00F709&width=435&lines=%22...Daqui+pra+frente+vai+ser+s%C3%B3+muito+champanhe+e+caviar...%22""(https://git.io/typing-svg)" </div>
+<div align="center"> <img scr="https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&color=00F709&width=435&lines=%22...Daqui+pra+frente+vai+ser+s%C3%B3+muito+champanhe+e+caviar...%22" </div>
 
 
 <h2>Contatos:</h2> 
