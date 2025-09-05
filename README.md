@@ -27,7 +27,7 @@
 
  ![Bomb](https://tenor.com/blLF2.gif)
 
- <img align="center"style="max-width: 100%; display: inline-block; src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbomb-joypixels-bombing-explode-blast-gif-17542148&psig=AOvVaw0Zff3gjyWYktgLa0yfi1tZ&ust=1757135169805000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDbmd_swI8DFQAAAAAdAAAAABA_" alt
+ <div align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbomb-joypixels-bombing-explode-blast-gif-17542148&psig=AOvVaw0Zff3gjyWYktgLa0yfi1tZ&ust=1757135169805000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDbmd_swI8DFQAAAAAdAAAAABA_"</div>
 
  <img align= "center" alt="Coding" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
