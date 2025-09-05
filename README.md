@@ -54,6 +54,8 @@
 </picture>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Vamos+Colaborar?+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <!--
 **JulianaBraz/JulianaBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
