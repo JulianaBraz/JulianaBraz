@@ -54,7 +54,7 @@
 </picture>
 </div>
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=7000DA&width=435&lines=Buscando+Evoluir+)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=7000DA&width=435&lines=Buscando+Evoluir+)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=21&pause=1000&color=DA33C6&width=435&lines=E+Aprender+Sempre)](https://git.io/typing-svg)
 
