@@ -22,9 +22,8 @@
 
 
 > [WARNING 🛑]
-> Urgent info that needs immediate user attention to avoid problems!
-> Seja rápido e selecione um link para adiquirir conhecimentos úteis...3...2...1...
-💣💣💣
+> Urgent information that needs immediate user attention to avoid ignorance issues is about to be armed like a bomb:
+> Seja rápido e selecione um link para adiquirir conhecimentos úteis e desarmar a bomba...3...2...1...💣💣💣
 
 
  <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBraz&show_icons=true&locale=en&layout=compact&theme=radical" alt="JulianaBraz" />
