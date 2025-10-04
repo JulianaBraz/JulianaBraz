@@ -27,7 +27,7 @@
 
 >  <h1 align= "center"> WARNING⚠️</h1>
 > Urgent information that needs immediate user attention to avoid ignorance issues is about to be armed like a bomb:
-> Seja rápido e selecione um link para adquirir conhecimentos úteis e desarmar a bomba...3...2...1...💣💣💣
+> Seja rápido e selecione um link para adquirir conhecimentos úteis e desarmar a bomba...3...2...1...
 
 <div align="center"> <img src="https://github.com/JulianaBraz/WelcometoFarFarAway/blob/a31b8111ad872af7ef02877fb510a39d5fc32107/bomb-joypixels.gif"</div>
 
@@ -40,7 +40,7 @@
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBraz&stats_format=bytes)
-
+💣💣💣
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBraz&layout=compact)
 -->
 
