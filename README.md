@@ -38,9 +38,9 @@
 
 ![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianaBraz&show_icons=true&theme=ambient_gradient)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBraz&stats_format=bytes)
 
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBraz&layout=compact)
 -->
 
